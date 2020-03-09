@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">appcenter</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">3UGvPX-p31CMhBCtYuDkXlwL7f-JG1-Vs6dNp</string>
 </resources>
